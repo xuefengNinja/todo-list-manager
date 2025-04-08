@@ -1,5 +1,7 @@
 # Simple Todo List Manager
 
+[![Python Version](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/downloads/)
+
 A lightweight Python class for managing to-do lists with basic functionality.
 
 ## Features
@@ -57,3 +59,4 @@ python -m unittest test_todo.py
 ## License
 
 This project is open source and available under the MIT License.
+

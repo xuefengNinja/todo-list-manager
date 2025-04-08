@@ -3,7 +3,8 @@ class TodoList:
     A simple class for managing a to-do list.
     
     This class provides functionality to add, remove, mark tasks as complete,
-    and view tasks in a to-do list.
+    and view tasks in a to-do list. It's designed to be easy to use and integrate
+    into other applications.
     """
     
     def __init__(self):
@@ -105,3 +106,4 @@ class TodoList:
     def __len__(self):
         """Return the number of tasks in the to-do list."""
         return len(self.tasks)
+
